@@ -1,0 +1,10 @@
+id: YDP350B009-V1
+category: displays
+size: "3.5"
+panel: tft
+resolution: 320x480
+interface: [rgb]
+driver: ST7365P
+touch: null
+outline: 54.5 x 83.05 mm
+active_area: 48.96 x 73.44 mm

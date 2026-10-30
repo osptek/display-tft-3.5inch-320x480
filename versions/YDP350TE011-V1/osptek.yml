@@ -1,0 +1,10 @@
+id: YDP350TE011-V1
+category: displays
+size: "3.5"
+panel: tft
+resolution: 320x480
+interface: []
+driver: AXS15231E
+touch: null
+outline: null
+active_area: null
