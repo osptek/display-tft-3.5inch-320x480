@@ -1,0 +1,10 @@
+id: YDP350F002-V1
+category: displays
+size: "3.5"
+panel: tft
+resolution: 320x480
+interface: [mipi]
+driver: ST7796S
+touch: null
+outline: 54.56 x 82.84 x 2.1 mm
+active_area: 48.96 x 73.44 mm
