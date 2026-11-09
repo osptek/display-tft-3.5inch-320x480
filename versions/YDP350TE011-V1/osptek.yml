@@ -1,0 +1,10 @@
+id: YDP350TE011-V1
+category: displays
+size: "3.5"
+panel: tft
+resolution: 320x480
+interface: [mipi]
+driver: AXS15231E
+touch: AXS15231E
+outline: 54.48 x 84.71 x 2.15 mm
+active_area: 48.96 x 73.44 mm
